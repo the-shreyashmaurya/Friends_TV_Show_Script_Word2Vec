@@ -1,4 +1,4 @@
-# Friends TV Show Script Analysis using Word2Vec
+# Friends TV Show Script Analysis using Word2Vec 
 
 ## Overview
 This project uses Word2Vec to analyze scripts from the *Friends* TV show. By training a Word2Vec model on the dialogues, we can find relationships between words, visualize word distributions, and understand contextual similarities between characters and phrases.
